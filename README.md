@@ -5,7 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
  <p align="center">
- <strong>Aplicação de exemplo de aplicação de Design Patterns na prática em um projeto WebAPI .NET Core 3.1 utilizada no curso "Aplicando design patterns na prática com C#"</strong>
+ <strong>Aplicação de Design Patterns na prática em um projeto WebAPI .NET Core 3.1 utilizada no curso "Aplicando design patterns na prática com C#"</strong>
     <br />
     <a href="https://github.com/renan2911?tab=repositories"><strong>Veja outros programas »</strong></a>
     <br />
